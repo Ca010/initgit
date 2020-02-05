@@ -1,0 +1,11 @@
+----------------------------------------------------
+GIT
+Adicionar todos os arquivo git add .
+Adicionar arquivo especifico git add "(nome do arquivo)"
+ver oq tem na maquina/remoto git branch
+criar branch git checkout -b "(nome da branch)"
+add comentario git commit -m "(escreva comentario)"
+----------------------------------------------------
+LINUX
+listar arquivos da pasta ll
+entrar cd
